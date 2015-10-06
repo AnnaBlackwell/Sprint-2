@@ -31,4 +31,7 @@ Systems should be self-explanatory. Online help should be task-oriented, with si
 Anticipate where opportunities for errors, and minimise or eliminate them where possible. Show error messages in plain language, to help the user fix the problem.
 
 Comments:
-The first rule, “design for the users and their tasks” is the most important from my point of view. I feel that the other 9 rules could be summarised by this one rule. I don't think any of these are unimportant. 
+The first rule, “design for the users and their tasks” is the most important from my point of view. I feel that the other 9 rules could be summarised by this one rule. I don't think any of these are unimportant.
+
+Comments on user-centred design video:
+It’s surprising that the video cited that 50% of a developer’s time is spent doing avoidable rework. The concept of front-loading work to make sure the system is fit-for-purpose while changes can be made easily makes complete sense. In the video, it was claimed that 15% of projects failed; I would have thought this is an underestimate.
