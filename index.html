@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Page title</title>
+    <title>Sectioning Content</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
     <style type="text/css" media="all">
@@ -24,37 +24,35 @@
   </head>
   <body>
     <header>
-      <h1>Site name</h1>
+      <h1>Sectioning content</h1>
     </header>
     <nav role="navigation" id = "global-nav">
+      <h2>GLobal navigation</h2>
       <ul>
-        <li><a href="#">About</a></li>
-        <li><a href="#">FAQ</a></li>
-        <li><a href="#">Contact</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/article">article</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside">aside</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav">nav</a></li>
+        <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section">section</a></li>
       </ul>
     </nav>
     <main role="main" id="main">
       <article>
         <header>
-          <h2>Article title 1</h2>
+          <h2>Articles</h2>
         </header>
-        <p>This is the first paragraph of the first article.</p>
-        <p>This is the second paragraph of the first article.</p>
+        <p>The HTML Article Element (<article>) represents a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable (e.g., in syndication). This could be a forum post, a magazine or newspaper article, a blog entry, an object, or any other independent item of content. Each <article> should be identified, typically by including a heading (h1-h6 element) as a child of the <article> element.</p>
+        <p>Content categories: Flow content, sectioning content, palpable content.</p>
       </article>
       <article>
         <header>
-          <h2>Article title 2</h2>
+          <h2>Asides</h2>
         </header>
-        <p>This is the first paragraph of the second article.</p>
-        <p>This is the second paragraph of the second article.</p>
+        <p>The HTML <aside> element represents a section of the page with content connected tangentially to the rest, which could be considered separate from that content. These sections are often represented as sidebars or inserts. They often contain the definitions on the sidebars, such as definitions from the glossary; there may also be other types of information, such as related advertisements; the biography of the author; web applications; profile information or related links on the blog.</p>
+        <p>Content categories: Flow content, sectioning content, palpable content.</p>
       </article>
       </main>
       <footer role="contentinfo">
-        <p id="copyright">&copy; 2015 by Anna Blackwell</p>
-        <nav>
-          <a href="#">Privacy policy</a>
-          <a href="#">Terms of use</a>
-        </nav>
+        <p id="copyright">Copyright 2015 Sections, Inc.</p>
       </footer>
   </body>
 </html>
