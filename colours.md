@@ -8,4 +8,4 @@ rosybrown
 rgb(205,133,63)
 
 
-What is the "a" in rgba or hsla? What does it stand for and how does it work?
+The “a” in RGBA and HSLA stands for the ‘alpha’ parameter. It represents opacity; a value of 0.0 is transparent, and a value of 1.0 is fully opaque.
