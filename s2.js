@@ -11,3 +11,12 @@ function aveofthree (x, y, z) {
 
 > aveofthree (3, 8, 4)
 5
+
+function isodd (x) {
+... return (x%2)
+... }
+
+> isodd (4)
+0
+> isodd (7)
+1
