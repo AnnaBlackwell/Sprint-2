@@ -1,3 +1,0 @@
-As a female, I feel I am quite sensitive to gender-neutral language, and I try to be neutral wherever possible. There are some difficult cases though, like "midwives", where the name itself has a gendered component.
-
-At work, I was once contacting a Japanese company to inquire about some equipment for automation in medical laboratories. I had to fill out a contact form in order to submit an email through their website. The only titles available were "Dr" and "Mr" (I chose Dr, of course!) That was quite a change from the environment that I work in (healthcare), which is dominated by females, including most leadership positions.
